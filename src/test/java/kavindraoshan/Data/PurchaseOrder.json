@@ -1,0 +1,14 @@
+[
+	{
+		"email" : "kavindra@yopmail.com",
+		"password" : "test123",
+		"productName" : "ZARA COAT 3"
+	},
+	
+	{
+		"email" : "sameer@yopmail.com",
+		"password" : "test123",
+		"productName" : "ADIDAS ORIGINAL"
+		
+	}
+]
